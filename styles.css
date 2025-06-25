@@ -1,0 +1,40 @@
+.card{
+    width: 410px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #d1d1d1;
+    padding: 10px;
+    box-shadow: 5px 5px #888888;
+}
+
+.infoBox{
+    width: 400px;
+    border: 1px solid #d1d1d1;
+    padding: 15px;
+}
+
+img{
+    height: 250px;
+    width:410px;
+    margin-bottom: 10px;
+}
+
+.factList{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li span{
+    font-weight: bold;
+    left: -10px;
+}
+
+.fact{
+    font-style: italic;
+}
+
+#cardTitle{
+    font-size: 25px;
+    font-weight: bold;
+}
