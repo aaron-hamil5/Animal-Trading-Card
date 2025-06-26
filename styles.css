@@ -1,5 +1,5 @@
 .card{
-    width: 410px;
+    width: 300px;
     display: flex;
     flex-wrap: wrap;
     border: 1px solid #d1d1d1;
@@ -8,14 +8,14 @@
 }
 
 .infoBox{
-    width: 400px;
+    width: 300px;
     border: 1px solid #d1d1d1;
     padding: 15px;
 }
 
 img{
-    height: 250px;
-    width:410px;
+    height: 200px;
+    width:300px;
     margin-bottom: 10px;
 }
 
